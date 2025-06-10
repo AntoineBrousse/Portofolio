@@ -3,8 +3,8 @@
 #### Skills: Python, SQL, Excel, Power Bi
 
 ## Education
-- Master en Econométrie et statistiques | Université d’Aix-Marseille						       		
-- Licence miashs | Université de Caen			        		
+- Master en Econométrie et statistiques Université d’Aix-Marseille						       		
+- Licence miashs Université de Caen			        		
 
 ## Projects
 ### Data Analyse Superstore project
