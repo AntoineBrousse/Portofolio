@@ -1,4 +1,4 @@
-# 🚀 Data Analyst freelance spécialisé Power BI | Je transforme vos données en décisions
+# 🚀 Je transforme vos données en décisions
 
 Vous avez des données, mais pas encore de **vision claire** pour piloter votre activité ?  
 Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashboards interactifs, automatisés et faciles à comprendre**.
@@ -53,10 +53,60 @@ Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashb
 🔗 [Voir le projet sur GitHub](https://github.com/AntoineBrousse/Projet-Data-Analyst_Superstore)
 
 ---
+---
 
-### 📁 Projet 2 : [À venir – Reporting RH automatisé avec Power BI + Excel]
+### 📁 Projet 2 : GreenMarket – Dashboard Power BI automatisé (BigQuery)
 
-_(Ajoute ce projet plus tard. Je peux te fournir un exemple fictif prêt à intégrer.)_
+🔗 [Voir le rapport Power BI en ligne](https://app.powerbi.com/reportEmbed?reportId=9e15115f-84b8-443c-8ce5-3b31164e654b&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea)
+
+---
+
+#### 🔎 Contexte fictif
+
+GreenMarket est une PME spécialisée dans la vente de produits écologiques en ligne. L’entreprise souhaitait centraliser, automatiser et visualiser ses données commerciales pour mieux suivre ses performances et prendre des décisions stratégiques rapidement.
+
+---
+
+#### ❗ Problématique
+
+Les données de vente étaient dispersées (fichiers manuels) et mises à jour de façon irrégulière, empêchant l’équipe de suivre les performances par produit, canal ou pays.
+
+---
+
+#### ✅ Solution apportée
+
+- Construction d’un **dashboard Power BI interactif et automatisé**
+- Connexion à une base **Google BigQuery** mise à jour chaque jour via **Python + Airflow**
+- Analyse visuelle en temps réel des ventes, produits, pays, et moyens de paiement
+
+---
+
+#### 🖼️ Dashboard
+
+> **Page 1 – Vue d’ensemble**  
+> - KPIs : Chiffre d'affaires, quantité, panier moyen, commandes  
+> - Graphiques : évolution quotidienne, répartition par pays et paiement
+
+![greenmarket_overview](/images/Sales_Dashboard_GreenMarket_pages-to-jpg-0001.jpg)
+
+> **Page 2 – Analyse produit**  
+> - Filtres interactifs par catégorie / produit  
+> - Focus sur les produits les plus vendus ou les plus rentables  
+> - Graphiques d’évolution spécifiques
+
+![greenmarket_products](/images/Sales_Dashboard_GreenMarket_pages-to-jpg-0002.jpg)
+
+---
+
+#### 📌 Ce que le projet démontre
+
+- Automatisation de la **data pipeline** avec Python + Airflow
+- Connexion Power BI ↔ BigQuery en mode direct
+- Maîtrise de DAX pour créer des indicateurs personnalisés
+- Conception de dashboard orienté **métier** et **utilisateur**
+
+
+🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/powerbi-greenmarket)
 
 ---
 
@@ -72,12 +122,3 @@ Je suis disponible pour des missions freelance, des collaborations ou des projet
 
 > *Merci pour votre visite ! N’hésitez pas à me contacter pour en discuter ou à explorer mes projets ci-dessus.*
 
-## Projects
-### Data Analyse Superstore project
-[Publication](https://github.com/AntoineBrousse/Projet-Data-Analyst_Superstore)
-
-Objectif : Analyser les ventes et performances d’un magasin fictif via **SQL** et **Power BI**. Réalisé une analyse complète du cycle de vente d'une entreprise fictive : ventes, remises, rentabilité produits, comportements clients. Création de requêtes SQL avancées pour produire des statistiques descriptives et conception d’un dashboard interactif Power BI. Mise en place d’un environnement SQL local via PostgreSQL pour stocker et manipuler les données. Connexion de la base à Power BI pour créer un dashboard interactif.
-
-![rapport_photo](/images/rapport_photo.png)
-
-https://app.powerbi.com/reportEmbed?reportId=9e15115f-84b8-443c-8ce5-3b31164e654b&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea
