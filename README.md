@@ -115,7 +115,7 @@ Les données de vente étaient dispersées (fichiers manuels) et mises à jour d
 Je suis disponible pour des missions freelance, des collaborations ou des projets ponctuels.
 
 📧 Email : **[brousse.antoine14@gmail.com]**  
-🔗 ![LinkedIn](https://www.linkedin.com/in/brousseantoine/)
+🔗 [LinkedIn](https://www.linkedin.com/in/brousseantoine/)
 
 ---
 
