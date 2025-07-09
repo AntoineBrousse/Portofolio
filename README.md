@@ -114,9 +114,8 @@ Les données de vente étaient dispersées (fichiers manuels) et mises à jour d
 
 Je suis disponible pour des missions freelance, des collaborations ou des projets ponctuels.
 
-📧 Email : **[ton@email.com]**  
-💼 Fiverr : [à ajouter dès que ton gig est en ligne]  
-🔗 LinkedIn : [ton profil LinkedIn]
+📧 Email : **[brousse.antoine14@gmail.com]**  
+🔗 ![LinkedIn](https://www.linkedin.com/in/brousseantoine/)
 
 ---
 
