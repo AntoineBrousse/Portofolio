@@ -3,9 +3,10 @@
 Vous avez des données, mais pas encore de **vision claire** pour piloter votre activité ?  
 Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashboards interactifs, automatisés et faciles à comprendre**.
 
-🎯 Mon objectif : transformer vos fichiers Excel, bases SQL ou exports en **rapports visuels, compréhensibles et actionnables** — sans jargon technique.
+🎯 Mon objectif : transformer vos fichiers Excel, bases SQL ou exports en **rapports visuels, compréhensibles et actionnables**.
 
 ---
+<iframe title="Thelookproject" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=2fdfa1de-5ebb-4628-ab51-72c61877fae0&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ## 💡 Ce que j’apporte :
 - Des **dashboards Power BI clairs**, pensés pour la prise de décision
