@@ -6,7 +6,6 @@ Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashb
 🎯 Mon objectif : transformer vos fichiers Excel, bases SQL ou exports en **rapports visuels, compréhensibles et actionnables**.
 
 ---
-<iframe title="Thelookproject" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=2fdfa1de-5ebb-4628-ab51-72c61877fae0&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ## 💡 Ce que j’apporte :
 - Des **dashboards Power BI clairs**, pensés pour la prise de décision
@@ -34,26 +33,66 @@ Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashb
 
 ## 📊 Projets
 
-### 📁 Projet 1 : Analyse des ventes – Superstore (SQL + Power BI)
+### 📁 Projet 1 : TheLook eCommerce – Dashboard Power BI automatisé (BigQuery)
 
-🎯 *Objectif : Analyser les ventes, marges et comportements clients d’un magasin fictif.*
-
-- Requêtes SQL avancées pour extraire les ventes, remises, délais, profits...
-- Environnement PostgreSQL local pour stocker les données
-- Dashboard Power BI avec :
-  - Page 1 : Vue générale (CA, marges, croissance)
-  - Page 2 : Analyse produit et catégorie
-  - Page 3 : Carte des régions + délais de livraison
-- KPIs personnalisés : marge nette, taux de remise, panier moyen, croissance mensuelle
-
-📸 Capture d’écran :  
-![rapport_photo](/images/rapport_photo.png)
-
-🔗 [Voir le rapport Power BI en ligne](https://app.powerbi.com/reportEmbed?reportId=9e15115f-84b8-443c-8ce5-3b31164e654b&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea)
-
-🔗 [Voir le projet sur GitHub](https://github.com/AntoineBrousse/Projet-Data-Analyst_Superstore)
+🔗 [Voir le rapport Power BI en ligne](https://app.powerbi.com/reportEmbed?reportId=2fdfa1de-5ebb-4628-ab51-72c61877fae0&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea&actionBarEnabled=true)
 
 ---
+
+#### 🔎 Contexte 
+
+**TheLook eCommerce** est un site fictif développé par l'équipe Looker de Google. Le dataset simule des données de vente, clients, produits, retours, marketing et navigation web. Il est hébergé dans **BigQuery Public Datasets** et mis à jour quotidiennement.
+
+Le but du projet est de démontrer ma capacité à :
+- Connecter Power BI à une base BigQuery
+- Automatiser la récupération de données avec des requêtes SQL
+- Créer des indicateurs dynamiques (KPI) et des visualisations percutantes
+- Comparer les performances avec les années précédentes (variation N-1)
+- Concevoir une structure de reporting claire et utile pour le pilotage commercial
+
+
+---
+
+#### 🖼️ Dashboard
+
+### Page 1 : **Performance commerciale**
+- Suivi du chiffre d'affaires, du profit, des quantités, commandes et panier moyen
+- Comparaison mensuelle avec l'année précédente (graphique groupé)
+- KPI dynamiques avec variation en % (verts/rouges selon évolution)
+  
+![Performance commerciale](/images/Thelookproject_p1.png)
+
+### Page 2 : **Performance produit & marque**
+- Top 10 des catégories les plus rentables (barres empilées CA / profit)
+- Répartition du chiffre d'affaires par département (Men / Women)
+- Analyse des meilleures marques : CA, profit, marge
+- Tableau synthétique avec totaux dynamiques et marges par catégorie
+
+![Performance produit & marque](/images/Thelookproject_p2.png)
+
+### Page 3 : **Performance géographique**
+- Carte interactive avec bulles de taille proportionnelle au CA
+- Répartition des ventes par pays
+- KPI globaux avec évolution annuelle
+
+![Performance géographique](/images/Thelookproject_p3.png)
+
+---
+
+#### ⚙️ Automatisation et techniques avancées
+
+- ✅ Connexion directe à BigQuery avec actualisation possible dans le service Power BI
+- ✅ Nettoyage des données et jointures effectuées dans Power Query + SQL
+- ✅ Création d’une **table de dates dynamique** pour les comparaisons temporelles
+- ✅ Utilisation de DAX pour :
+  - les indicateurs N-1
+  - les marges
+  - les mesures conditionnelles (ex : couleur en fonction de la croissance)
+- ✅ Design UX pensé pour la lisibilité, l’interactivité et la clarté décisionnelle
+
+🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/powerbi-greenmarket)
+
+
 ---
 
 ### 📁 Projet 2 : GreenMarket – Dashboard Power BI automatisé (BigQuery)
