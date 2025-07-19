@@ -35,8 +35,6 @@ Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashb
 
 ### 📁 Projet 1 : TheLook eCommerce – Dashboard Power BI automatisé (BigQuery)
 
-🔗 [Voir le rapport Power BI en ligne](https://app.powerbi.com/reportEmbed?reportId=2fdfa1de-5ebb-4628-ab51-72c61877fae0&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea&actionBarEnabled=true)
-
 ---
 
 #### 🔎 Contexte 
@@ -90,7 +88,7 @@ Le but du projet est de démontrer ma capacité à :
   - les mesures conditionnelles (ex : couleur en fonction de la croissance)
 - ✅ Design UX pensé pour la lisibilité, l’interactivité et la clarté décisionnelle
 
-🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/powerbi-greenmarket)
+🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/TheLook-eCommerce)
 
 
 ---
