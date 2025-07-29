@@ -37,9 +37,9 @@ Je vous aide à passer à un reporting automatisé et interactif grâce à **Pow
 
 ---
 
-#### 🔎 Contexte 
+#### Contexte 
 
-**TheLook eCommerce** est un site fictif développé par l'équipe Looker de Google. Le dataset simule des données de vente, clients, produits, retours, marketing et navigation web. Il est hébergé dans **BigQuery Public Datasets** et mis à jour quotidiennement.
+**TheLook eCommerce** est un site de vente de vêtements fictif développé par l'équipe Looker de Google. Le dataset simule des données de vente, clients, produits, retours, marketing et navigation web. Il est hébergé dans **BigQuery Public Datasets** et mis à jour quotidiennement.
 
 Le but du projet est de démontrer ma capacité à :
 - Connecter Power BI à une base BigQuery
@@ -51,7 +51,7 @@ Le but du projet est de démontrer ma capacité à :
 
 ---
 
-#### 🖼️ Dashboard
+#### 🖼Dashboard
 
 ### Page 1 : **Performance commerciale**
 - Suivi du chiffre d'affaires, du profit, des quantités, commandes et panier moyen
@@ -77,19 +77,17 @@ Le but du projet est de démontrer ma capacité à :
 
 ---
 
-#### ⚙️ Automatisation et techniques avancées
+#### Automatisation et techniques avancées
 
-- ✅ Connexion directe à BigQuery avec actualisation possible dans le service Power BI
-- ✅ Nettoyage des données et jointures effectuées dans Power Query + SQL
-- ✅ Création d’une **table de dates dynamique** pour les comparaisons temporelles
-- ✅ Utilisation de DAX pour :
+- Connexion directe à BigQuery avec actualisation possible dans le service Power BI
+- Nettoyage des données et jointures effectuées dans Power Query + SQL
+- Création d’une **table de dates dynamique** pour les comparaisons temporelles
+- Utilisation de DAX pour :
   - les indicateurs N-1
   - les marges
   - les mesures conditionnelles (ex : couleur en fonction de la croissance)
-- ✅ Design UX pensé pour la lisibilité, l’interactivité et la clarté décisionnelle
 
 🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/TheLook-eCommerce)
-
 
 ---
 
@@ -99,19 +97,19 @@ Le but du projet est de démontrer ma capacité à :
 
 ---
 
-#### 🔎 Contexte fictif
+#### Contexte fictif
 
 GreenMarket est une PME spécialisée dans la vente de produits écologiques en ligne. L’entreprise souhaitait centraliser, automatiser et visualiser ses données commerciales pour mieux suivre ses performances et prendre des décisions stratégiques rapidement.
 
 ---
 
-#### ❗ Problématique
+#### Problématique
 
 Les données de vente étaient dispersées (fichiers manuels) et mises à jour de façon irrégulière, empêchant l’équipe de suivre les performances par produit, canal ou pays.
 
 ---
 
-#### ✅ Solution apportée
+#### Solution apportée
 
 - Construction d’un **dashboard Power BI interactif et automatisé**
 - Connexion à une base **Google BigQuery** mise à jour chaque jour via **Python + Airflow**
@@ -119,7 +117,7 @@ Les données de vente étaient dispersées (fichiers manuels) et mises à jour d
 
 ---
 
-#### 🖼️ Dashboard
+#### Dashboard
 
 > **Page 1 – Vue d’ensemble**  
 > - KPIs : Chiffre d'affaires, quantité, panier moyen, commandes  
