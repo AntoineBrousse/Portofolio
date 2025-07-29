@@ -42,8 +42,8 @@ Je vous aide à passer à un reporting automatisé et interactif grâce à **Pow
 **TheLook eCommerce** est un site de vente de vêtements fictif développé par l'équipe Looker de Google. Le dataset simule des données de vente, clients, produits, retours, marketing et navigation web. Il est hébergé dans **BigQuery Public Datasets** et mis à jour quotidiennement.
 
 Le but du projet est de démontrer ma capacité à :
+- Automatisatier le rafraîchissement des données via Power BI service
 - Connecter Power BI à une base BigQuery
-- Automatiser la récupération de données avec des requêtes SQL
 - Créer des indicateurs dynamiques (KPI) et des visualisations percutantes
 - Comparer les performances avec les années précédentes (variation N-1)
 - Concevoir une structure de reporting claire et utile pour le pilotage commercial
@@ -51,7 +51,7 @@ Le but du projet est de démontrer ma capacité à :
 
 ---
 
-#### 🖼Dashboard
+#### Dashboard
 
 ### Page 1 : **Performance commerciale**
 - Suivi du chiffre d'affaires, du profit, des quantités, commandes et panier moyen
