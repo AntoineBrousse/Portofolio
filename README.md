@@ -16,18 +16,18 @@ Je vous aide à passer à un reporting automatisé et interactif grâce à **Pow
 
 ## Pourquoi travailler avec moi ?
 
--Économies immédiates : moins de tâches manuelles, plus de temps pour vos décisions.
--Résultats rapides : premiers dashboards ou automatisations livrés en quelques jours.
--Approche simple et concrète : je pars de vos fichiers existants et les rends exploitables sans complexifier vos process.
+- Économies immédiates : moins de tâches manuelles, plus de temps pour vos décisions.
+- Résultats rapides : premiers dashboards ou automatisations livrés en quelques jours.
+- Approche simple et concrète : je pars de vos fichiers existants et les rends exploitables sans complexifier vos process.
 
 ---
 
 ## Compétences techniques
 
--Power BI : dashboards interactifs, DAX, Power Query, publication web.
--Excel avancé : macros VBA, automatisation, tableaux croisés dynamiques.
--SQL : requêtes et intégration dans Power BI (PostgreSQL).
--Python : traitement de données avec pandas, automatisations simples.
+- Power BI : dashboards interactifs, DAX, Power Query, publication web.
+- Excel avancé : macros VBA, automatisation, tableaux croisés dynamiques.
+- SQL : requêtes et intégration dans Power BI (PostgreSQL).
+- Python : traitement de données avec pandas, automatisations simples.
 
 ---
 
