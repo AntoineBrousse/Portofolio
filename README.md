@@ -1,33 +1,33 @@
-# 🚀 Je transforme vos données en décisions
+# 🚀  J’automatise vos reportings et transforme vos données en décisions
 
-Vous avez des données, mais pas encore de **vision claire** pour piloter votre activité ?  
-Je vous aide à **exploiter vos données avec Power BI** pour créer des **dashboards interactifs, automatisés et faciles à comprendre**.
-
-🎯 Mon objectif : transformer vos fichiers Excel, bases SQL ou exports en **rapports visuels, compréhensibles et actionnables**.
+Vous travaillez encore sur Excel pour vos reportings ?
+Je vous aide à passer à un reporting automatisé et interactif grâce à **Power BI** ou à des **macros Excel personnalisées**. Résultat : gain de temps, réduction des coûts et meilleure prise de décision.
 
 ---
 
-## 💡 Ce que j’apporte :
-- Des **dashboards Power BI clairs**, pensés pour la prise de décision
-- Une **automatisation** du reporting (connexion cloud, rafraîchissement automatique)
-- Une vision **métier + technique** : indicateurs adaptés à vos vrais besoins
-- Une communication simple et efficace, même si vous n’êtes pas à l’aise avec la data
+## Ce que je fais pour vous :
+
+- Création de **tableaux de bord Power BI** connectés à vos fichiers (Excel, CSV, Google Sheets, SQL…).
+- **Automatisation complète des reportings** : refresh planifié, export automatique vers PowerPoint, envoi par email.
+- Nettoyage et structuration des données (**Power Query, SQL, Python**) pour des indicateurs fiables.
+- Mise en place de KPIs métier (ventes, finances, stocks, segmentation client) clairs et actionnables.
 
 ---
 
-## 🛠️ Compétences techniques
+## Pourquoi travailler avec moi ?
 
-- **Power BI** : dashboards interactifs, publication web, connexions multiples, DAX
-- **SQL** : requêtes avancées, jointures, création de vues (PostgreSQL)
-- **Python** : manipulation de données avec pandas, visualisation (matplotlib, seaborn)
-- **Excel** : reporting, formules, tableaux croisés dynamiques
+-Économies immédiates : moins de tâches manuelles, plus de temps pour vos décisions.
+-Résultats rapides : premiers dashboards ou automatisations livrés en quelques jours.
+-Approche simple et concrète : je pars de vos fichiers existants et les rends exploitables sans complexifier vos process.
 
 ---
 
-## 🎓 Formation
+## Compétences techniques
 
-- Master en Économétrie & Statistiques (Université d’Aix-Marseille) – en cours  
-- Licence MIASHS (Université de Caen)
+-Power BI : dashboards interactifs, DAX, Power Query, publication web.
+-Excel avancé : macros VBA, automatisation, tableaux croisés dynamiques.
+-SQL : requêtes et intégration dans Power BI (PostgreSQL).
+-Python : traitement de données avec pandas, automatisations simples.
 
 ---
 
