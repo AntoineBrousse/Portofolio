@@ -1,159 +1,93 @@
-# 🚀  J’automatise vos reportings et transforme vos données en décisions
+# 🚀 Automatisez vos reportings et transformez vos données en décisions
 
-Vous travaillez encore sur Excel pour vos reportings ?
-Je vous aide à passer à un reporting automatisé et interactif grâce à **Power BI** ou à des **macros Excel personnalisées**. Résultat : gain de temps, réduction des coûts et meilleure prise de décision.
-
----
-
-## Ce que je fais pour vous :
-
-- Création de **tableaux de bord Power BI** connectés à vos fichiers (Excel, CSV, Google Sheets, SQL…).
-- **Automatisation complète des reportings** : refresh planifié, export automatique vers PowerPoint, envoi par email.
-- Nettoyage et structuration des données (**Power Query, SQL, Python**) pour des indicateurs fiables.
-- Mise en place de KPIs métier (ventes, finances, stocks, segmentation client) clairs et actionnables.
+Vous perdez encore du temps chaque mois à mettre à jour vos fichiers Excel ou vos présentations PowerPoint manuellement ?  
+J’aide **les PME, e-commerçants, cabinets de conseil et services financiers** à automatiser leurs reportings avec **Power BI**, **Power Automate** et **Excel avancé (VBA)**.  
+Résultat : **gain de temps**, **réduction des erreurs** et **meilleure prise de décision**.
 
 ---
 
-## Pourquoi travailler avec moi ?
+## 💼 Ce que je fais pour vous
 
-- Économies immédiates : moins de tâches manuelles, plus de temps pour vos décisions.
-- Résultats rapides : premiers dashboards ou automatisations livrés en quelques jours.
-- Approche simple et concrète : je pars de vos fichiers existants et les rends exploitables sans complexifier vos process.
+- **Création de tableaux de bord Power BI** connectés à vos données (Excel, Google Sheets, CSV, SQL, API…).  
+- **Automatisation complète** de vos reportings : actualisation planifiée, envoi par email, export automatique PowerPoint ou PDF.  
+- **Nettoyage et structuration** des données avec Power Query, SQL ou Python pour des indicateurs fiables.  
+- **Mise en place d’alertes automatiques** (CA en baisse, stock faible, dépassement de budget…).  
+- **Formations rapides et ciblées** pour rendre vos équipes autonomes sur Power BI et Excel avancé.  
 
 ---
 
-## Compétences techniques
+## 🎯 Pourquoi travailler avec moi ?
 
-- Power BI : dashboards interactifs, DAX, Power Query, publication web.
-- Excel avancé : macros VBA, automatisation, tableaux croisés dynamiques.
-- SQL : requêtes et intégration dans Power BI (PostgreSQL).
-- Python : traitement de données avec pandas, automatisations simples.
+- **Économies immédiates** : réduction du temps passé sur le reporting.  
+- **Livraison rapide** : premiers résultats en quelques jours.  
+- **Approche simple** : j’automatise à partir de vos fichiers existants, sans complexifier vos process.  
+
+---
+
+## 🛠 Compétences techniques
+
+- **Power BI** : dashboards interactifs, DAX, Power Query, publication web, Power BI Service.  
+- **Excel avancé** : macros VBA, automatisation, TCD, modèles dynamiques.  
+- **Power Automate** : flux d’actualisation, envoi automatique d’alertes ou rapports.  
+- **SQL** : requêtes et intégration dans Power BI.  
+- **Python** : traitement de données et automatisations simples.  
 
 ---
 
 ## 📊 Projets
 
-### 📁 Projet 1 : TheLook eCommerce – Dashboard Power BI automatisé (BigQuery)
-
----
-
-#### Contexte 
-
-**TheLook eCommerce** est un site de vente de vêtements fictif développé par l'équipe Looker de Google. Le dataset simule des données de vente, clients, produits, retours, marketing et navigation web. Il est hébergé dans **BigQuery Public Datasets** et mis à jour quotidiennement.
-
-Le but du projet est de démontrer ma capacité à :
-- Automatisatier le rafraîchissement des données via Power BI service
-- Connecter Power BI à une base BigQuery
-- Créer des indicateurs dynamiques (KPI) et des visualisations percutantes
-- Comparer les performances avec les années précédentes (variation N-1)
-- Concevoir une structure de reporting claire et utile pour le pilotage commercial
-
-
----
-
-#### Dashboard
-
-### Page 1 : **Performance commerciale**
-- Suivi du chiffre d'affaires, du profit, des quantités, commandes et panier moyen
-- Comparaison mensuelle avec l'année précédente (graphique groupé)
-- KPI dynamiques avec variation en % (verts/rouges selon évolution)
-  
-![Performance commerciale](/images/Thelookproject_p1.png)
-
-### Page 2 : **Performance produit & marque**
-- Top 10 des catégories les plus rentables (barres empilées CA / profit)
-- Répartition du chiffre d'affaires par département (Men / Women)
-- Analyse des meilleures marques : CA, profit, marge
-- Tableau synthétique avec totaux dynamiques et marges par catégorie
-
-![Performance produit & marque](/images/Thelookproject_p2.png)
-
-### Page 3 : **Performance géographique**
-- Carte interactive avec bulles de taille proportionnelle au CA
-- Répartition des ventes par pays
-- KPI globaux avec évolution annuelle
-
-![Performance géographique](/images/Thelookproject_p3.png)
-
----
-
-#### Automatisation et techniques avancées
-
-- Connexion directe à BigQuery avec actualisation possible dans le service Power BI
-- Nettoyage des données et jointures effectuées dans Power Query + SQL
-- Création d’une **table de dates dynamique** pour les comparaisons temporelles
-- Utilisation de DAX pour :
-  - les indicateurs N-1
-  - les marges
-  - les mesures conditionnelles (ex : couleur en fonction de la croissance)
+### 📁 Projet 1 : **TheLook eCommerce** – Dashboard Power BI automatisé (BigQuery)
 
 🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/TheLook-eCommerce)
 
----
+**Contexte**  
+TheLook eCommerce est un site fictif développé par Google, avec un dataset BigQuery simulant ventes, clients, produits et marketing.  
+Objectif : démontrer ma capacité à connecter Power BI à BigQuery, automatiser l’actualisation et fournir des KPI pertinents.
 
-### 📁 Projet 2 : GreenMarket – Dashboard Power BI automatisé (BigQuery)
+**Fonctionnalités clés**  
+- Connexion directe BigQuery → Power BI avec refresh planifié.  
+- KPI dynamiques (CA, profit, quantités, panier moyen) avec comparaison N-1.  
+- Pages interactives : performance commerciale, analyse produit/marque, performance géographique.  
 
-🔗 [Voir le rapport Power BI en ligne](https://app.powerbi.com/reportEmbed?reportId=9e15115f-84b8-443c-8ce5-3b31164e654b&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea)
-
----
-
-#### Contexte fictif
-
-GreenMarket est une PME spécialisée dans la vente de produits écologiques en ligne. L’entreprise souhaitait centraliser, automatiser et visualiser ses données commerciales pour mieux suivre ses performances et prendre des décisions stratégiques rapidement.
-
----
-
-#### Problématique
-
-Les données de vente étaient dispersées (fichiers manuels) et mises à jour de façon irrégulière, empêchant l’équipe de suivre les performances par produit, canal ou pays.
+📷 **Aperçu**  
+![Performance commerciale](/images/Thelookproject_p1.png)  
+![Performance produit & marque](/images/Thelookproject_p2.png)  
+![Performance géographique](/images/Thelookproject_p3.png)  
 
 ---
 
-#### Solution apportée
-
-- Construction d’un **dashboard Power BI interactif et automatisé**
-- Connexion à une base **Google BigQuery** mise à jour chaque jour via **Python + Airflow**
-- Analyse visuelle en temps réel des ventes, produits, pays, et moyens de paiement
-
----
-
-#### Dashboard
-
-> **Page 1 – Vue d’ensemble**  
-> - KPIs : Chiffre d'affaires, quantité, panier moyen, commandes  
-> - Graphiques : évolution quotidienne, répartition par pays et paiement
-
-![greenmarket_overview](/images/Sales_Dashboard_GreenMarket_pages-to-jpg-0001.jpg)
-
-> **Page 2 – Analyse produit**  
-> - Filtres interactifs par catégorie / produit  
-> - Focus sur les produits les plus vendus ou les plus rentables  
-> - Graphiques d’évolution spécifiques
-
-![greenmarket_products](/images/Sales_Dashboard_GreenMarket_pages-to-jpg-0002.jpg)
-
----
-
-#### 📌 Ce que le projet démontre
-
-- Automatisation de la **data pipeline** avec Python + Airflow
-- Connexion Power BI ↔ BigQuery en mode direct
-- Maîtrise de DAX pour créer des indicateurs personnalisés
-- Conception de dashboard orienté **métier** et **utilisateur**
-
+### 📁 Projet 2 : **Green Market** – Automatisation complète avec Power BI + OneDrive + Power Automate
 
 🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/powerbi-greenmarket)
+
+**Contexte**  
+Green Market est une PME fictive vendant des produits alimentaires et éco-responsables.  
+Ses ventes mensuelles sont enregistrées dans des fichiers Excel sur OneDrive.  
+Avant mon intervention, les équipes devaient importer, nettoyer et mettre à jour manuellement les données chaque mois.
+
+**Solution mise en place**  
+- **Connexion Power BI ↔ OneDrive** pour détecter automatiquement les nouveaux fichiers.  
+- Nettoyage et formatage des données **directement dans Power Query** (sélection des colonnes utiles, formats unifiés).  
+- Workflow **Power Automate** déclenché à chaque ajout de fichier :  
+  - Rafraîchissement du dataset Power BI.  
+  - Envoi automatique d’un email avec lien vers le rapport actualisé.  
+
+**Valeur ajoutée**  
+- Rapport toujours à jour, **sans intervention humaine**.  
+- Suppression complète des tâches répétitives.  
+- Possibilité d’**ajouter des alertes automatiques** ou **exports PowerPoint** pour les réunions.  
+
+📷 **Aperçu**  
+![Page-1](images/Page-1.png)  
+![Page-2](images/Page-2.png)  
 
 ---
 
 ## 🤝 Me contacter
 
-Je suis disponible pour des missions freelance, des collaborations ou des projets ponctuels.
-
-📧 Email : **[brousse.antoine14@gmail.com]**  
-🔗 [LinkedIn](https://www.linkedin.com/in/brousseantoine/)
+📧 Email : **brousse.antoine14@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/brousseantoine/)  
 
 ---
 
-> *Merci pour votre visite ! N’hésitez pas à me contacter pour en discuter ou à explorer mes projets ci-dessus.*
-
+💡 *Projets fictifs inspirés de cas réels, conçus pour illustrer mes compétences en automatisation de reporting et intégration Power BI avec services cloud.*  
