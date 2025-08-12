@@ -87,7 +87,3 @@ Avant mon intervention, les équipes devaient importer, nettoyer et mettre à jo
 
 📧 Email : **brousse.antoine14@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/brousseantoine/)  
-
----
-
-💡 *Projets fictifs inspirés de cas réels, conçus pour illustrer mes compétences en automatisation de reporting et intégration Power BI avec services cloud.*  
