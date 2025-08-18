@@ -1,55 +1,52 @@
-Vous perdez encore du temps à mettre à jour vos fichiers Excel ou vos présentations PowerPoint manuellement ?
-J’aide les PME à concevoir des dashboards clairs et impactants avec **Power BI** et **Excel**, et à automatiser leurs reportings grâce à Power Automate et VBA.
-Résultat : une **vision en temps réel** de vos indicateurs, un **gain de temps considérable**, moins d’erreurs et des décisions plus rapides.
+# 🚀 Dashboards & Reporting automatisé
+
+Bienvenue sur mon portfolio.  
+Ce dépôt présente mes projets en **Business Intelligence** et **Data Analysis**, réalisés avec **Power BI, Excel (VBA), Power Automate, SQL et Python**.
 
 ---
 
-## 💼 Ce que je fais pour vous
+## Ce que je fais
 
-- **Création de tableaux de bord** connectés à vos données (Excel, Google Sheets, CSV, SQL, API…).  
-- **Automatisation complète** de vos reportings : actualisation planifiée, envoi par email, export automatique PowerPoint ou PDF.  
-- **Nettoyage et structuration** des données avec Power Query, SQL ou Python pour des indicateurs fiables.  
-- **Mise en place d’alertes automatiques** (CA en baisse, stock faible, dépassement de budget…).
+- Conception de **dashboards interactifs** pour suivre les KPIs d’une entreprise.  
+- **Automatisation des reportings** (actualisation planifiée, envoi par email, export automatique).  
+- **Nettoyage et structuration** des données (Power Query, SQL, Python).  
+- **Analyses statistiques et prédictives** pour appuyer la prise de décision.  
   
 ---
-
-## 🎯 Pourquoi travailler avec moi ?
-
-- **Économies immédiates** : réduction du temps passé sur le reporting.  
-- **Livraison rapide** : premiers résultats en quelques jours.  
-- **Approche simple** : j’automatise à partir de vos fichiers existants, sans complexifier vos process.  
-
----
-
-## 🛠 Compétences techniques
-
-- **Power BI** : dashboards interactifs, DAX, Power Query, publication web, Power BI Service.  
-- **Excel avancé** : macros VBA, automatisation, TCD, modèles dynamiques.  
-- **Power Automate** : flux d’actualisation, envoi automatique d’alertes ou rapports.  
-- **SQL** : requêtes et intégration dans Power BI.  
-- **Python** : traitement de données et automatisations simples.  
-
----
-
 ## 📊 Projets
 
 ### 📁 Projet 1 : **TheLook eCommerce** – Dashboard Power BI automatisé (BigQuery)
 
 🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/TheLook-eCommerce)
 
-**Contexte**  
-TheLook eCommerce est un site fictif développé par Google, avec un dataset BigQuery simulant ventes, clients, produits et marketing.  
-Objectif : démontrer ma capacité à connecter Power BI à BigQuery, automatiser l’actualisation et fournir des KPI pertinents.
+**1. Contexte**  
+TheLook eCommerce est un dataset fictif développé par Google sur BigQuery, qui simule les ventes, clients, produits et campagnes marketing d’un site e-commerce.  
 
-**Fonctionnalités clés**  
-- Connexion directe BigQuery → Power BI avec refresh planifié.  
-- KPI dynamiques (CA, profit, quantités, panier moyen) avec comparaison N-1.  
-- Pages interactives : performance commerciale, analyse produit/marque, performance géographique.  
+**2. Objectif**  
+Concevoir un **dashboard Power BI connecté en temps réel à BigQuery**, capable de suivre les performances commerciales (CA, profit, panier moyen, quantités), et d’automatiser l’actualisation des données.  
+
+**3. Plan**  
+- Connexion de Power BI à BigQuery.  
+- Modélisation des données et création des mesures DAX.  
+- Conception de pages de reporting : performance globale, analyse produit/marque, analyse géographique.  
+- Mise en place d’un **rafraîchissement automatique** des données.  
+
+**4. Mise en pratique**  
+- Import direct BigQuery → Power BI.  
+- Construction des KPI : CA, profit, quantités vendues, panier moyen.  
+- Comparatif automatique avec l’année précédente (mesures DAX).  
+- Pages interactives : performance commerciale, analyse produit/marque, répartition géographique.  
+
+**5. Résultat**  
+- Dashboard automatisé, actualisé sans manipulation manuelle.  
+- Vision claire et multi-niveaux (global, produit, client, pays).  
+- Outil permettant à une équipe marketing/vente d’identifier rapidement les axes de croissance et d’optimisation.  
 
 📷 **Aperçu**  
 ![Performance commerciale](/images/Thelookproject_p1.png)  
 ![Performance produit & marque](/images/Thelookproject_p2.png)  
 ![Performance géographique](/images/Thelookproject_p3.png)  
+
 
 ---
 
