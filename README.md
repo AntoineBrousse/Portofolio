@@ -1,19 +1,18 @@
 # 🚀 Automatisez vos reportings et transformez vos données en décisions
 
 Vous perdez encore du temps chaque mois à mettre à jour vos fichiers Excel ou vos présentations PowerPoint manuellement ?  
-J’aide **les PME, e-commerçants, cabinets de conseil et services financiers** à automatiser leurs reportings avec **Power BI**, **Power Automate** et **Excel avancé (VBA)**.  
+J’aide les PME à automatiser leurs reportings avec **Power BI**, **Power Automate** et **Excel avancé (VBA)**.  
 Résultat : **gain de temps**, **réduction des erreurs** et **meilleure prise de décision**.
 
 ---
 
 ## 💼 Ce que je fais pour vous
 
-- **Création de tableaux de bord Power BI** connectés à vos données (Excel, Google Sheets, CSV, SQL, API…).  
+- **Création de tableaux de bord** connectés à vos données (Excel, Google Sheets, CSV, SQL, API…).  
 - **Automatisation complète** de vos reportings : actualisation planifiée, envoi par email, export automatique PowerPoint ou PDF.  
 - **Nettoyage et structuration** des données avec Power Query, SQL ou Python pour des indicateurs fiables.  
-- **Mise en place d’alertes automatiques** (CA en baisse, stock faible, dépassement de budget…).  
-- **Formations rapides et ciblées** pour rendre vos équipes autonomes sur Power BI et Excel avancé.  
-
+- **Mise en place d’alertes automatiques** (CA en baisse, stock faible, dépassement de budget…).
+  
 ---
 
 ## 🎯 Pourquoi travailler avec moi ?
@@ -73,7 +72,7 @@ Avant mon intervention, les équipes devaient importer, nettoyer et mettre à jo
   - Envoi automatique d’un email avec lien vers le rapport actualisé.  
 
 **Valeur ajoutée**  
-- Rapport toujours à jour, **sans intervention humaine**.  
+- Rapport toujours à jour.  
 - Suppression complète des tâches répétitives.  
 - Possibilité d’**ajouter des alertes automatiques** ou **exports PowerPoint** pour les réunions.  
 
