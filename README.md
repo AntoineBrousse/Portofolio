@@ -1,8 +1,6 @@
-# 🚀 Automatisez vos reportings et transformez vos données en décisions
-
-Vous perdez encore du temps chaque mois à mettre à jour vos fichiers Excel ou vos présentations PowerPoint manuellement ?  
-J’aide les PME à automatiser leurs reportings avec **Power BI**, **Power Automate** et **Excel avancé (VBA)**.  
-Résultat : **gain de temps**, **réduction des erreurs** et **meilleure prise de décision**.
+Vous perdez encore du temps à mettre à jour vos fichiers Excel ou vos présentations PowerPoint manuellement ?
+J’aide les PME à concevoir des dashboards clairs et impactants avec **Power BI** et **Excel**, et à automatiser leurs reportings grâce à Power Automate et VBA.
+Résultat : une **vision en temps réel** de vos indicateurs, un **gain de temps considérable**, moins d’erreurs et des décisions plus rapides.
 
 ---
 
