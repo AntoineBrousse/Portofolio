@@ -44,26 +44,29 @@ Concevoir un **dashboard Power BI connecté en temps réel à BigQuery**, capabl
 
 ---
 
-### 📁 Projet 2 : **Green Market** – Automatisation complète avec Power BI + OneDrive + Power Automate
+## 📁 Projet 2 : **Green Market** – Automatisation complète avec Power BI + OneDrive + Power Automate
 
 🔗 [Voir le projet complet ici](https://github.com/AntoineBrousse/powerbi-greenmarket)
 
-**Contexte**  
+**1. Contexte**  
 Green Market est une PME fictive vendant des produits alimentaires et éco-responsables.  
 Ses ventes mensuelles sont enregistrées dans des fichiers Excel sur OneDrive.  
-Avant mon intervention, les équipes devaient importer, nettoyer et mettre à jour manuellement les données chaque mois.
+Avant l’automatisation, les équipes devaient importer, nettoyer et mettre à jour manuellement les données chaque mois.  
 
-**Solution mise en place**  
-- **Connexion Power BI ↔ OneDrive** pour détecter automatiquement les nouveaux fichiers.  
-- Nettoyage et formatage des données **directement dans Power Query** (sélection des colonnes utiles, formats unifiés).  
-- Workflow **Power Automate** déclenché à chaque ajout de fichier :  
+**2. Objectif**  
+Automatiser le processus de reporting afin de supprimer les tâches manuelles répétitives et garantir un rapport Power BI toujours à jour.  
+
+**3. Mise en pratique**  
+- Connexion Power BI ↔ OneDrive pour détecter automatiquement les nouveaux fichiers.  
+- Nettoyage et formatage des données dans **Power Query** (colonnes utiles, formats unifiés).  
+- Mise en place d’un workflow **Power Automate** déclenché à chaque ajout de fichier :  
   - Rafraîchissement du dataset Power BI.  
-  - Envoi automatique d’un email avec lien vers le rapport actualisé.  
+  - Envoi automatique d’un email avec le lien vers le rapport actualisé.  
 
-**Valeur ajoutée**  
-- Rapport toujours à jour.  
-- Suppression complète des tâches répétitives.  
-- Possibilité d’**ajouter des alertes automatiques** ou **exports PowerPoint** pour les réunions.  
+**4. Résultat**  
+- Rapport Power BI toujours actualisé sans manipulation manuelle.  
+- Gain de temps significatif et suppression des tâches répétitives.  
+- Base fiable pour ajouter des fonctionnalités avancées (alertes automatiques, exports PowerPoint pour les réunions).  
 
 📷 **Aperçu**  
 ![Page-1](images/Page-1.png)  
