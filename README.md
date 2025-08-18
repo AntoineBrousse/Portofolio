@@ -25,22 +25,16 @@ TheLook eCommerce est un dataset fictif développé par Google sur BigQuery, qui
 **2. Objectif**  
 Concevoir un **dashboard Power BI connecté en temps réel à BigQuery**, capable de suivre les performances commerciales (CA, profit, panier moyen, quantités), et d’automatiser l’actualisation des données.  
 
-**3. Plan**  
-- Connexion de Power BI à BigQuery.  
-- Modélisation des données et création des mesures DAX.  
-- Conception de pages de reporting : performance globale, analyse produit/marque, analyse géographique.  
-- Mise en place d’un **rafraîchissement automatique** des données.  
-
-**4. Mise en pratique**  
-- Import direct BigQuery → Power BI.  
-- Construction des KPI : CA, profit, quantités vendues, panier moyen.  
-- Comparatif automatique avec l’année précédente (mesures DAX).  
-- Pages interactives : performance commerciale, analyse produit/marque, répartition géographique.  
-
-**5. Résultat**  
-- Dashboard automatisé, actualisé sans manipulation manuelle.  
-- Vision claire et multi-niveaux (global, produit, client, pays).  
-- Outil permettant à une équipe marketing/vente d’identifier rapidement les axes de croissance et d’optimisation.  
+**3. Mise en pratique**  
+- Connexion du rapport Power BI à la base BigQuery (mode import).  
+- Modélisation des données et création de mesures DAX pour les KPI et la comparaison annuelle.  
+- Création de graphiques adaptés aux données et conception de pages de reporting : performance globale, analyse produit/marque, analyse géographique.  
+- Mise en place d’un **rafraîchissement quotidien planifié** des données sur Power BI Service.  
+  
+**4. Résultat**  
+- Dashboard automatisé, toujours à jour sans intervention manuelle.  
+- Vision claire à plusieurs niveaux (global, produit, client, pays).  
+- Support d’aide à la décision pour les équipes marketing et ventes afin d’identifier rapidement les leviers de croissance et d’optimisation.  
 
 📷 **Aperçu**  
 ![Performance commerciale](/images/Thelookproject_p1.png)  
