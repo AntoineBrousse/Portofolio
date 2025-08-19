@@ -1,11 +1,11 @@
 # 🚀 Dashboards & Reporting automatisé
 
 Bienvenue sur mon portfolio.  
-Ce dépôt présente mes projets en **Business Intelligence** et **Data Analysis**, réalisés avec **Power BI, Excel (VBA), Power Automate, SQL et Python**.
+Ce dépôt présente mes projets en **Business Intelligence** et **Data Analyse**, réalisés avec **Power BI, Excel (VBA), Power Automate**.
 
 ---
 
-## Ce que je fais
+## 🛠️ Ce que je fais pour vous
 
 - Conception de **dashboards interactifs** pour suivre les KPIs d’une entreprise.  
 - **Automatisation des reportings** (actualisation planifiée, envoi par email, export automatique).  
